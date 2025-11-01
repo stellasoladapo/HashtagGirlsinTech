@@ -24,19 +24,18 @@ With over a decade in **public health strategy and communications**, I’m now e
 ---
 
 ## 🛠️ Tech Stack (so far)
-`Python` • `Notion` • `n8n` • `Zapier` • `Power BI` • `GitHub` • `Markdown`  
+`Python` • `Notion` • `n8n` • `Zapier` • `Power BI` • `GitHub` • `Markdown` *AtlasTi 
 *(and growing!)*
 
 ---
 
 ## 💡 Current Goal
-To blend my background in **public health communication** with new skills in **tech, AI, and automation**, creating tools and systems that help people live and work better.
+To blend my background in **public health communications and policy** with new skills in **tech, AI, and automation**, creating tools and systems that help people live and work better.
 
 ---
 
 ## 🌍 Connect with Me
-🌐 [lovealwaysstella.com](https://lovealwaysstella.com) *(or your preferred link)*  
-📸 [@lovealways.stella](https://instagram.com/lovealways.stella)  
+🌐 stellasoladapo@gmail.com
 💼 [LinkedIn](https://www.linkedin.com/in/stellaoladapo)
 
 ---
